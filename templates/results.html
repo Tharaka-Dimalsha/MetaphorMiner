@@ -14,14 +14,15 @@
             border-radius: 5px;
             padding: 10px;
             margin: 10px;
+            background-color: #cdd1ce;
         }
     </style>
 </head>
 <body>
     <h1>Search Results</h1>
+    <p>Showing results for : {{query}}</p>
     {% for hit in hits %}
         <div class="card">
-            <p>{{ hit._source.title }}</p>
             <p>{{ hit._source.content|replace('\n', '<br>')|safe}}</p>
         </div>
     {% endfor %}

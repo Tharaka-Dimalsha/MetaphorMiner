@@ -12,25 +12,43 @@ index_name = f'sinhala_index_{attempt}'
 # Define the Sinhala analyzer settings
 sinhala_analyzer = {
     "settings": {
-    "index": {
-      "analysis": {
-        "analyzer": {
-          "sinhalaAnalyzer": {
-            "type": "custom",
-            "tokenizer": "icu_tokenizer"
-          },
-          "plain": {
-            "filter": [],
-            "tokenizer": "standard"
-          }
+    "analysis": {
+      "analyzer": {
+        "sinhalaAnalyzer": {
+          "type": "custom",
+          "tokenizer": "icu_tokenizer",
+          "char_filter": ["punctuation_char_filter"]
         },
-        "filter": {
-          "edgeNgram": {
-            "type": "edge_ngram",
-            "min_gram": 2,
-            "max_gram": 50,
-            "side": "front"
-          }
+        "sinhalaSearchAnalyzer": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "char_filter": ["punctuation_char_remove_filter"]
+        }
+      },
+      "char_filter": {
+        "punctuation_char_filter": {
+          "type": "mapping",
+          "mappings": [".=>", "|=>", "-=>", "_=>", "'=>", "/=>", ",=>"]
+        },
+        "punctuation_char_remove_filter": {
+          "type": "mapping",
+          "mappings": [
+            ".=>\\u0020",
+            "|=>\\u0020",
+            "-=>\\u0020",
+            "_=>\\u0020",
+            "'=>\\u0020",
+            "/=>\\u0020",
+            ",=>\\u0020"
+          ]
+        }
+      },
+      "filter": {
+        "edge_n_gram_filter": {
+          "type": "edge_ngram",
+          "min_gram": "2",
+          "max_gram": "20",
+          "side": "front"
         }
       }
     }

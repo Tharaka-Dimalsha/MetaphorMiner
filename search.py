@@ -24,10 +24,14 @@ def search():
                 "analyzer": "sinhalaAnalyzer"
             }
         }
+    },
+    "highlight": {
+        "fields": {
+            "content": {}  # Highlight the "content" field
+        }
     }
 }
 
-    print(body)
     # Search the Elasticsearch index
     results = es.search(index='sinhala_index_1', body=body)
     
@@ -35,7 +39,7 @@ def search():
     hits = results['hits']['hits']
     
     # Return the search results to the user
-    return render_template('results.html', hits=hits)
+    return render_template('results.html', hits=hits,query=query)
 
 if __name__ == '__main__':
     app.run(debug=True)
