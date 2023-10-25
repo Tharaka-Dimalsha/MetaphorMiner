@@ -1,0 +1,54 @@
+1. Lyrics
+රෑ අභසේ තරු දිලෙන තරම්‌
+මා මනසේ ඔබ රැදෙනවනම්‌
+විශ්වයේනම්‌ නොවේ තවන්‌
+මෙවන්‌ සැනසුමක්‌
+
+හදට උණුසුමක්‌
+
+නුවන තෙමී විසිරෙනා
+
+නුබේ කදුලු පාකරන්න වැහි වළාවකින්‌
+වැහි වැටෙන්න ලන්‌ වෙනකොට
+අකාසෙට දෙනෙත්‌ යොමා බලා සිටින්නම්‌
+වැටෙන වැටෙන වැගි බිදුගෙන
+
+මා සගවන්නම්‌
+
+රෑ අහසේ තරු.../
+
+මල්‌ උයනක සැරි සරන්න
+
+සමනළයනී ඉගිල එන්න නුබලට හැකිනම්‌
+පන්හිද ළගංතනි වෙනකොට
+
+මා ලියනා කවි ගී වැල්‌ ඈතට ගෙනහින්‌
+ඇයට ඇහිද ගන්න දුරක වීසී කරාපන්‌
+
+රෑ අහසේ තරු...//
+
+
+2. Song Name - රෑ අහසේ තරු ගානට
+
+3. Voice - ගයන්ත විජයරත්න
+
+4. Music - Null
+
+5. Lyricist - Null
+
+6. Album - Ree Ahase
+
+7. Year - 2009
+
+8. Metaphors:-
+a. රෑ අභසේ තරු දිලෙන තරම්‌ මා මනසේ ඔබ රැදෙනවනම්‌
+Meaning - You are always on my mind (like the stars in the night sky).
+source domain - Star Shine
+target domain - You stay in my mind
+category - Love
+
+b. සමනළයනී ඉගිල එන්න නුබලට හැකිනම්‌ පන්හිද ළගංතනි වෙනකොට මා ලියනා කවි ගී වැල්‌ ඈතට ගෙනහින්‌ ඇයට ඇහිද ගන්න දුරක වීසී කරාපන්‌.
+Meaning - I hope that she hears the songs and poems I write.
+source domain - Butterflies carrying songs
+target domain - Hearing his songs
+category - Love

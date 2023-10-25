@@ -1,0 +1,51 @@
+1. Lyrics
+මලක්‌ වගේ ඔබ ලස්සනයි ළඳේ
+දොලක්‌ වගේ හැඩකාර වූ ළඳේ
+
+සුළං වගේ සුවදායකයි ළඳේ
+
+ගලක්‌ වගේ සිත ගල්‌ චෙලා ඔබේ.....
+
+ඔබ ගින්දයි මා ජීවත්‌ වුනේ
+පෙම හින්දයි මා හෙම්බත්‌ වුනේ
+හිත කැඩිලා කැබලි වෙලා
+කසල ගොඬේ කොනවීලා.....
+
+එනතුරු මා මග බලමින්‌ සිටිමි
+නිරතූරු මා දින ගනිමින්‌ හිදඳිමී
+හඬනු එපා තැවෙනු එපා
+රෑ බොවී එන්න එවපා......
+
+
+2. Song Name -  මලක්‌ වගේ ඔබ ලස්සනයි ළඳේ
+
+3. Voice - මිල්ටන්‌ මල්ලචාරච්චි
+
+4. Music - Null
+
+5. Lyricist - Null
+
+6. Album - Null
+
+7. Year - 2010
+
+8. Metaphors:-
+a. මලක්‌ වගේ ඔබ ලස්සනයි ළඳේ
+Meaning - You are beautiful like a flower.
+source domain - flower
+target domain - beauty
+
+b. දොලක්‌ වගේ හැඩකාර වූ ළඳේ
+Meaning - You are sexy like a river.
+source domain - river
+target domain - body shape
+
+c. සුළං වගේ සුවදායකයි ළඳේ
+Meaning - your gentle like a breeze.
+source domain - breeze
+target domain - gentleness
+
+d. ගලක්‌ වගේ සිත ගල්‌ චෙලා ඔබේ
+Meaning - Your heart has stiffen like a rock.
+source domain - rock
+target domain - heart

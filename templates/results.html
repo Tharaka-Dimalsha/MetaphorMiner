@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #333;
+        }
+        .card {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Search Results</h1>
+    {% for hit in hits %}
+        <div class="card">
+            <p>{{ hit._source.title }}</p>
+            <p>{{ hit._source.text_content|replace('\n', '<br>')|safe}}</p>
+        </div>
+    {% endfor %}
+</body>
+</html>
