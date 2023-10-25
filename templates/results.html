@@ -22,7 +22,7 @@
     {% for hit in hits %}
         <div class="card">
             <p>{{ hit._source.title }}</p>
-            <p>{{ hit._source.text_content|replace('\n', '<br>')|safe}}</p>
+            <p>{{ hit._source.content|replace('\n', '<br>')|safe}}</p>
         </div>
     {% endfor %}
 </body>

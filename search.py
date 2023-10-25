@@ -17,15 +17,19 @@ def search():
     # Define your Elasticsearch query here
     # For a basic example, we'll use a simple match query
     body = {
-        "query": {
-            "match": {
-                "text_content": query
+    "query": {
+        "match": {
+            "content": {
+                "query": query,
+                "analyzer": "sinhalaAnalyzer"
             }
         }
     }
+}
 
+    print(body)
     # Search the Elasticsearch index
-    results = es.search(index='index_1', body=body)
+    results = es.search(index='sinhala_index_1', body=body)
     
     # Extract relevant information from search results
     hits = results['hits']['hits']

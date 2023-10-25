@@ -30,13 +30,13 @@
 
 5. Lyricist - Spin Circuitz
 
-6. Album - Season 1
+6. Album - වාරය 1
 
 7. Year - 2010
 
 8. Metaphors:-
 a. සමනල්ලු ඉහ හැරුණු අත ගියා අපි ආයේ නොයෙනා නිසා
-Meaning - Love is lost as we won't meet again.
-source domain - Butterfly flight
-target domain - drifting apart
-category - Pain
+Meaning - ආයෙ මුණ නොගැසෙන නිසා ආදරය නැතිවෙලා.
+source domain - සමනල පියාසර කිරීම
+target domain - ඈත් වෙනවා
+category - වේදනාව

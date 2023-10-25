@@ -44,12 +44,12 @@
 
 5. Lyricist - චරිත්‌ සෙනාධීර
 
-6. Album - Haritha Nimnaya
+6. Album - හරිත නිම්නය
 
 7. Year - 2007
 
 8. Metaphors:-
 a. තරු නිවී ගිහින් නිල් අහස් තලේ ඈ නෙතු දැල්වේ
-Meaning - Your eyes are brighter than a star.
-source domain - star
-target domain - eyes
+Meaning - ඔබේ ඇස් තරුවකට වඩා දීප්තිමත් ය.
+source domain - තරුව
+target domain - ඇස්

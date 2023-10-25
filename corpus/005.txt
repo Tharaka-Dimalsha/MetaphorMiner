@@ -48,29 +48,29 @@
 
 3. Voice - Daddy
 
-4. Music - Null
+4. Music - ශුන්‍ය
 
-5. Lyricist - Null
+5. Lyricist - ශුන්‍ය
 
-6. Album - Massina
+6. Album - මස්සිනා
 
 7. Year - 2010
 
 8. Metaphors:-
 a. ඔබ ගෙන ආ සෙනෙහස මුදු පවනේ රැඳි සිසිලක් ලෙසින්
-Meaning - The love you gave is gentle (like a gentle breeze).
-source domain - breeze
-target domain - love
-category - Love
+Meaning - ඔබ දුන් ආදරය මෘදුයි (මෘදු සුළඟක් මෙන්).
+source domain - සුළඟ
+target domain - ආදරය
+category - ආදරය
 
 b. වසන්තයයි මාගේ දෙතොලේ සිහිවන්නේ ඔබෙ මුව හමුවේ
-Meaning - when I kiss you it feels like the sprint.
-source domain - spring
-target domain - kiss
-category - Love
+Meaning - මම ඔබව සිප ගන්නා විට එය ස්ප්‍රින්ට් මෙන් දැනේ.
+source domain - වසන්තය
+target domain - හාදුවක්
+category - ආදරය
 
 c. කඳුලැල් දිය දහරා නෙතඟින් නොකැඩී ගලා ගියේ මා තනි වී සිසිරෙන් මුවා වූ වසන්තේ උදාවූ ලෙසේ
-Meaning - I cried a lot when I was alone. (Like the water flowing after winter ends and spring starts)
-source domain - water flowing after winter ends and spring starts
-target domain - Crying
-category - Pain
+Meaning - මම තනියම ඉන්නකොට හොඳටම ඇඬුවා. (ශීත ඍතුව අවසන් වී වසන්තය ආරම්භ වූ පසු ගලා යන ජලය මෙන්)
+source domain - ශීත ඍතුව අවසන් වී වසන්තය ආරම්භ වීමෙන් පසු ජලය ගලා යයි
+target domain - අඬනවා
+category - වේදනාව

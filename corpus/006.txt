@@ -61,19 +61,19 @@
 
 5. Lyricist - සංක B
 
-6. Album - Null
+6. Album - ශුන්‍ය
 
 7. Year - 2009
 
 8. Metaphors:-
 a. ඔබගෙන් සඟවා සිටිනා සෑමදා පරලොවකට සම වූවා මේ ජීවිතේ
-Meaning - Hiding the truth from you made my life like hell.
-source domain - Hell
-target domain - Life
-category - Friendship
+Meaning - ඔයාගෙන් ඇත්ත හංගලා මගේ ජීවිතේ අපායක් කළා.
+source domain - අපාය
+target domain - ජීවිතය
+category - මිත්රත්වය
 
 b. සොයුරන් සේ.. අප හැදී වැඩී.. හෝ.. කිසිදාවත්.. නෑ සිටියේ වෙන් වී
-Meaning - we grew up never apart, like brothers
-source domain - brothers
-target domain - friendship
-category - friendship
+Meaning - අපි සහෝදරයන් මෙන් කිසිදා වෙන්ව හැදී වැඩුණේ නැත
+source domain - සහෝදරයන්
+target domain - සහෝදරයන්
+category - සහෝදරයන්

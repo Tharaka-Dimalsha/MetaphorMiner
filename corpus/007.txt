@@ -29,17 +29,17 @@
 
 3. Voice - දමින්‌ අසංක
 
-4. Music - Null
+4. Music - ශුන්‍ය
 
 5. Lyricist - සම්පත්‌ ප්‍රනාන්දුපුල්ලේ
 
-6. Album - Null
+6. Album - ශුන්‍ය
 
 7. Year - 2010
 
 8. Metaphors:-
 a. සඳ රාජිනී නුඹයි මගේ හද මන්දිරේ
-Meaning - Queen you are my heart.
-source domain - Moon
-target domain - Lover
-category - Love
+Meaning - රැජින ඔබ මගේ හදවතයි.
+source domain - සඳ
+target domain - ආදරවන්තයා
+category - ආදරය

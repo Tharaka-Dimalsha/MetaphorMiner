@@ -32,9 +32,9 @@
 
 3. Voice - ගයන්ත විජයරත්න
 
-4. Music - Null
+4. Music - ශුන්‍ය
 
-5. Lyricist - Null
+5. Lyricist - ශුන්‍ය
 
 6. Album - Ree Ahase
 
@@ -42,13 +42,13 @@
 
 8. Metaphors:-
 a. රෑ අභසේ තරු දිලෙන තරම්‌ මා මනසේ ඔබ රැදෙනවනම්‌
-Meaning - You are always on my mind (like the stars in the night sky).
-source domain - Star Shine
-target domain - You stay in my mind
+Meaning - ඔබ සැමවිටම මගේ මනසෙහි සිටී (රාත්‍රී අහසේ තරු මෙන්).
+source domain - තරු බැබළීම
+target domain - ඔයා මගේ හිතේ ඉන්න
 category - Love
 
 b. සමනළයනී ඉගිල එන්න නුබලට හැකිනම්‌ පන්හිද ළගංතනි වෙනකොට මා ලියනා කවි ගී වැල්‌ ඈතට ගෙනහින්‌ ඇයට ඇහිද ගන්න දුරක වීසී කරාපන්‌.
-Meaning - I hope that she hears the songs and poems I write.
-source domain - Butterflies carrying songs
-target domain - Hearing his songs
-category - Love
+Meaning - මම ලියන ගීත සහ කවි ඇයට ඇසෙනු ඇතැයි මම බලාපොරොත්තු වෙමි.
+source domain - ගීත රැගෙන යන සමනලුන්
+target domain - ඔහුගේ ගීත ඇසීම
+category - ආදරය

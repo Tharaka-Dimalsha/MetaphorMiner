@@ -25,9 +25,9 @@
 
 3. Voice - Centigradz
 
-4. Music - Null
+4. Music - ශුන්‍ය
 
-5. Lyricist - Null
+5. Lyricist - ශුන්‍ය
 
 6. Album - රෑසිරි
 
@@ -35,7 +35,7 @@
 
 8. Metaphors:-
 a. සංසාරේ පතා ආපු මගේ ආදරෙ මදි උනාද
-Meaning - You broke up even though I felt our love was destined to be.
-source domain - samsara
-target domain - destined love
-category - Love
+Meaning - අපේ ආදරය දෛවෝපගත බව මට දැනුණත් ඔබ වෙන් විය.
+source domain - සංසාරය
+target domain - දෛවෝපගත ආදරය
+category - ආදරය

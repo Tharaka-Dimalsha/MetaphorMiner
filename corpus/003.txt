@@ -57,23 +57,23 @@
 
 3. Voice - භානිය, සන්තුෂ්‌
 
-4. Music - Null
+4. Music - ශුන්‍ය
 
 5. Lyricist - භානිය, සන්තුෂ්‌
 
-6. Album - RESVIHIDENA the Valentine's Day Special
+6. Album - RESVIHIDENA වැලන්ටයින් දිනය විශේෂයි
 
 7. Year - 2007
 
 8. Metaphors:-
 a. රැස් විහිදෙන සමනලියකගෙන් ඉගියක් ලැබුනාම
-Meaning - A beautiful girl gets interested in you.
-source domain - radiant butterfly
-target domain - Lover
-category - Love
+Meaning - ලස්සන ගැහැණු ළමයෙක් ඔබ ගැන උනන්දු වෙයි.
+source domain - විකිරණ සමනලයා
+target domain - ආදරවන්තයා
+category - ආදරය
 
 b. දිරි දෙන්නම් මුළු හද පත්ලෙන් මහමෙර සේම
-Meaning - Will give you encouragement(like the ocean).
-source domain - Ocean
-target domain - Effort
-category - Love
+Meaning - ඔබට දිරිගැන්වීමක් ලබා දෙනු ඇත (සාගරය මෙන්).
+source domain - සාගරය
+target domain - උත්සාහය
+category - ආදරය

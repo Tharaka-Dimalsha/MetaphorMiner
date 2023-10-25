@@ -32,19 +32,19 @@
 
 5. Lyricist - සජිත්‌ දිල්පහන්‌
 
-6. Album - Null
+6. Album - ශුන්‍ය
 
 7. Year - 2010
 
 8. Metaphors:-
 a. තරු මිලින වෙලා සඳු නෑ අද මගෙ ලොකෙ
-Meaning - I am sad as I have lost my happiness.
-source domain - Moon
-target domain - Lover
-category - Love
+Meaning - මගේ සතුට නැති වූ නිසා මට දුකයි.
+source domain - සඳ
+target domain - ආදරවන්තයා
+category - ආදරය
 
 b. තව එක මොහොතක්‌ නුබෙ සෙනෙහේ මගෙ වේනම්‌ තරු අතූරා අහසේ සරසන්නම්‌
-Meaning - I will do anything for your love becomes mine one more time.
-source domain - stars in sky
-target domain - Effort
-category - Love
+Meaning - ඔබේ ආදරය තවත් වරක් මගේ වීම වෙනුවෙන් මම ඕනෑම දෙයක් කරමි.
+source domain - අහසේ තරු
+target domain - උත්සාහය
+category - ආදරය
